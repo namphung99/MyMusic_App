@@ -27,55 +27,55 @@ const app ={
         {
             name: 'Gene',
             singer: 'Binz',
-            path: '../music/Gene-BinzTouliver-5961947.mp3',
+            path: '../assets/music/Gene-BinzTouliver-5961947.mp3',
             img:'https://ss-images.saostar.vn/2019/05/13/5177543/batch_geneartwork.jpg'
         },
         {
             name: 'Dân Chơi Xóm',
             singer: 'JustaTee, RPT MCK',
-            path: '../music/justatee_rpt_mck_dan_choi_xom_team_karik_rap_viet_mv_lyrics_-135602791986821408.mp3',
+            path: '../assets/music/justatee_rpt_mck_dan_choi_xom_team_karik_rap_viet_mv_lyrics_-135602791986821408.mp3',
             img:'https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/11/19/hinh24-1605758619816777534288.jpg'
         },
         {
             name: 'Mười Năm',
             singer: 'Đen Vâu',
-            path: '../music/MuoiNamLonXon3-DenNgocLinh-5869931.mp3',
+            path: '../assets/music/MuoiNamLonXon3-DenNgocLinh-5869931.mp3',
             img:'https://image.phunuonline.com.vn/news/2019/20191109/fckimage/168832_6-91838732.jpg'
         },
         {
             name: 'Dusk Till Dawn',
             singer: 'ZAYN & Sia ',
-            path: '../music/song1.mp3',
+            path: '../assets/music/song1.mp3',
             img:'https://2.bp.blogspot.com/-N8GRUBaG3d0/XV-h49UTmTI/AAAAAAAAAw8/P_eWOyi7TEMrnTe39O9EhC3yhJfXRT9lgCLcBGAs/s1600/46211920684_2208604ec0_k.jpg'
         },
         {
             name: 'Anh Đếch Cần Gì Nhiều Ngoài Em',
             singer: 'Đen Vâu',
-            path: '../music/AnhDechCanGiNhieuNgoaiEm-DenVuThanhDong-5749937.mp3',
+            path: '../assets/music/AnhDechCanGiNhieuNgoaiEm-DenVuThanhDong-5749937.mp3',
             img:'https://duyendangvietnam.net.vn/public/uploads/files/Chau%20Chau%205/AVATAR_DEN.png'
         },
         {
             name: 'Hai Triệu Năm',
             singer: 'Đen Vâu',
-            path: '../music/HaiTrieuNam-DenBien-6007307.mp3',
+            path: '../assets/music/HaiTrieuNam-DenBien-6007307.mp3',
             img:'https://review.edu.vn/wp-content/uploads/2019/06/hinh-anh-che-hai-huoc-den-vau-17.jpg'
         },
         {
             name: 'Sao Cũng Được',
             singer: 'Binz',
-            path: '../music/SaoCungDuocGuitarVersion-Binz-5411337.mp3',
+            path: '../assets/music/SaoCungDuocGuitarVersion-Binz-5411337.mp3',
             img:'https://kenh14cdn.com/2018/4/26/binz-15247461584952012951072.png'
         },
         {
             name: 'SoFar',
             singer: 'Binz',
-            path: '../music/SoFar-Binz-5521790.mp3',
+            path: '../assets/music/SoFar-Binz-5521790.mp3',
             img:'https://i.ytimg.com/vi/_MM1MQgFjRM/maxresdefault.jpg'
         },
         {
             name: 'TheySaid',
             singer: 'Binz',
-            path: '../music/TheySaid-TouliverBinz-5302431.mp3',
+            path: '../assets/music/TheySaid-TouliverBinz-5302431.mp3',
             img:'https://i.ytimg.com/vi/XdBsAXOxYfo/hqdefault.jpg'
         }
     ],
